@@ -1,0 +1,11 @@
+C:\Users\jhona\Desktop\MultiplicationTDD\Multiplicacion\bin\Debug\netcoreapp2.1\Multiplicacion.deps.json
+C:\Users\jhona\Desktop\MultiplicationTDD\Multiplicacion\bin\Debug\netcoreapp2.1\Multiplicacion.runtimeconfig.json
+C:\Users\jhona\Desktop\MultiplicationTDD\Multiplicacion\bin\Debug\netcoreapp2.1\Multiplicacion.runtimeconfig.dev.json
+C:\Users\jhona\Desktop\MultiplicationTDD\Multiplicacion\bin\Debug\netcoreapp2.1\Multiplicacion.dll
+C:\Users\jhona\Desktop\MultiplicationTDD\Multiplicacion\bin\Debug\netcoreapp2.1\Multiplicacion.pdb
+C:\Users\jhona\Desktop\MultiplicationTDD\Multiplicacion\obj\Debug\netcoreapp2.1\Multiplicacion.csprojAssemblyReference.cache
+C:\Users\jhona\Desktop\MultiplicationTDD\Multiplicacion\obj\Debug\netcoreapp2.1\Multiplicacion.csproj.CoreCompileInputs.cache
+C:\Users\jhona\Desktop\MultiplicationTDD\Multiplicacion\obj\Debug\netcoreapp2.1\Multiplicacion.AssemblyInfoInputs.cache
+C:\Users\jhona\Desktop\MultiplicationTDD\Multiplicacion\obj\Debug\netcoreapp2.1\Multiplicacion.AssemblyInfo.cs
+C:\Users\jhona\Desktop\MultiplicationTDD\Multiplicacion\obj\Debug\netcoreapp2.1\Multiplicacion.dll
+C:\Users\jhona\Desktop\MultiplicationTDD\Multiplicacion\obj\Debug\netcoreapp2.1\Multiplicacion.pdb
