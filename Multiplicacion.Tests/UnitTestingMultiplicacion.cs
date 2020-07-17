@@ -30,9 +30,9 @@ namespace Multiplicacion.Tests
         }
 
         [Test]
-        public void Multiplication_of_5_billion_and_47_Exceeds_MaximumValue_Throws_System_Overflow_Exception()
+        public void Multiplication_of_1_billion_and_47_Exceeds_MaximumValue_Throws_System_Overflow_Exception()
         {
-            Assert.Throws<System.OverflowException>(() => Calculator.Multiply(5000000000, 47));
+            Assert.Throws<System.OverflowException>(() => Calculator.Multiply(1000000000, 47));
         }
 
         [Test]
