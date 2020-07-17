@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplicacion", "Multiplicacion\Multiplicacion.csproj", "{FAE09BC8-3B43-4CFE-BB4D-02034F5A093B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplicacion.Tests", "Multiplicacion.Tests\MMultiplicacion.Tests.csproj", "{3D4754C5-EF0F-4208-99DA-B2CD4EC4D75F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplicacion.Tests", "Multiplicacion.Tests\Multiplicacion.Tests.csproj", "{3D4754C5-EF0F-4208-99DA-B2CD4EC4D75F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
